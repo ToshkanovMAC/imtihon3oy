@@ -7,11 +7,17 @@
 // }else {
 //     alert("yaxshi");
 // }
-
 // 2-masala
 // let n = 6;
-// let b = (n - 2) * n / 2;
-// console.log(b);
+// let a = 0;
+
+// for (let i = 1; i <= n; i++) {
+//   if (i % 2 === 0) {
+//     a += i;
+//   }
+// }
+
+// console.log(a);
 
 // 3-masala
 // let n = 10;
