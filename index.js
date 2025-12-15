@@ -12,3 +12,17 @@
 // let n = 6;
 // let b = (n - 2) * n / 2;
 // console.log(b);
+
+// 3-masala
+// let n = 10;
+// let arr = [];
+
+// for (let i = 1; i <= n; i++) {
+//     if (i % 2 !== 0) {
+//         arr.push(i * i);
+//     }
+// }
+
+// for (let i = arr.length - 1; i >= 0; i--) {
+//     console.log(arr[i]);
+// }
